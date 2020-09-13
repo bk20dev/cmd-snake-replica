@@ -2,6 +2,8 @@
 
 Prosty projekt kultowej gry Snake wykonany z użyciem "czystego" **C++** i okna konsoli
 
+![zrzut ekranu z gry](https://github.com/xbk20/cmd_snake/blob/master/screenshots/screenshot_0.png?raw=true)
+
 ## Uruchomienie
 
 Visual Studio
